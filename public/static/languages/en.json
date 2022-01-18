@@ -1,0 +1,39 @@
+{
+    "page": {
+        "title": "CCE-System"
+    },
+    "navbar": {
+        "lang": {
+            "lang": "Language",
+            "de": "🍻 DE",
+            "en": "☕️ EN",
+            "request": "Request a language"
+        },
+        "export": "Export CSV",
+        "help": "Help"
+    },
+    "cctvtable": {
+        "camera": "Camera Type",
+        "compression": "Compression",
+        "fps": "FPS",
+        "fps_hint": "Frames per second",
+        "hours_a_day": "Hours/Day",
+        "days": "Days",
+        "quantity": "Quantity",
+        "tb": "TB",
+        "tb_hint": "Terabyte"
+    },
+    "help": {
+        "title": "Help",
+        "subtitle": "Tutorial on how to use this tool",
+        "contact": {
+            "title": "Contact us!",
+            "text": "If you found a Bug, or just have a good idea for this tool. Please reach out to one of the maintainers listed below. Click on the mail-icon next to one of the email-addresses to open a new draft in your mail program."
+        },
+        "close": "Close"
+    },
+    "Windowsize": {
+        "title": "We're sorry",
+        "subtitle": "The window is too small for the correct display of this web page. Please reduce the zoom of the browser, or drag the window a little larger."
+    }
+}
